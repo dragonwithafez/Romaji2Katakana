@@ -3,8 +3,6 @@ Romaji2Katakana is a plugin for MuseScore 3 which converts rōmaji lyrics like '
 
 Makes kana lyric entry easier to work around MS3's issues with kana entry using a JP keyboard or EN keyboard with IME.
 
-This version is forked from the original to add major improvements, since the original seems to be abandoned.
-
 See also https://github.com/dragonwithafez/Romaji2Hiragana for an equivalent tool for converting to hiragana.
 
 The plugin will preserve existing kana, both hiragana and katakana.
