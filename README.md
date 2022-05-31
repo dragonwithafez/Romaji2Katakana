@@ -37,6 +37,9 @@ Any non-Japanese lyrics using Latin characters will be converted to kana with po
 
 ### Changelog
 
+#### Changes in version 1.2.1
+- Fix https://github.com/dragonwithafez/Romaji2Hiragana-Plugin/issues/4
+
 #### Initial release 1.2.0
 - Code converted from https://github.com/dragonwithafez/Romaji2Hiragana version 1.2.0 for use with katakana
 
