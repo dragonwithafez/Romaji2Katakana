@@ -8,7 +8,7 @@ See also https://github.com/dragonwithafez/Romaji2Hiragana for an equivalent too
 The plugin will preserve existing kana, both hiragana and katakana.
 
 ### Installation
-Download the latest release from the Releases sidebar, or clone the repository. Unzip the downloaded files into MuseScore's Plugins folder, then open MuseScore, navigate to the Plugin Manager and check Romaji2Katakana. If desired for space reasons, you may delete any filess within the extracted directory except "Romaji2Katakana.qml".
+Download the latest release from the Releases sidebar, or clone the repository. Unzip the downloaded files into MuseScore's Plugins folder, then open MuseScore, navigate to the Plugin Manager and check Romaji2Katakana. If desired for space reasons, you may delete any files within the extracted directory except "Romaji2Katakana.qml".
 
 #### Uninstallation
 Delete the Romaji2Katakana folder from MuseScore's Plugins folder.
