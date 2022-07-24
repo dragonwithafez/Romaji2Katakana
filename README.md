@@ -14,7 +14,7 @@ Download the latest release from the Releases sidebar, or clone the repository. 
 Delete the Romaji2Katakana folder from MuseScore's Plugins folder.
 
 ### Usage
-Enter the rōmaji lyrics of your composition in MuseScore 3. Running the plugin will convert all lyrics written in the Latin alphabet to their respective kana, preserving existing kana and punctuation. Supports multiple romanizations of kana such as 'shi'/'si'-「シ」、'dji'/'di'-「ヂ」、etc.
+Enter the rōmaji lyrics of your composition in MuseScore 3. Running the plugin will convert all lyrics written in the Latin alphabet to their respective kana, preserving existing kana and punctuation.
 
 For lyrics such as 「ナッタ」 spread over two notes, they can be entered as either 'nat -ta' or 'na -tta', depending on whether you want 「ナッ -タ」 or 「ナ -ッタ」.
 
@@ -34,6 +34,8 @@ Chōompu (long vowel symbol, 「ー」) should be entered as a dash ('-') placed
 Diacritics are not supported; enter long vowels as double letters, i.e. 「モウ」 should be entered as "mou" not "mō" or "mô".
 
 Any non-Japanese lyrics using Latin characters will be converted to kana with potentially unwanted results. Either change them manually afterwards, or don't enter mixed-language lyrics until after kana conversion is complete.
+
+As of version 1.2.1, the plugin no longer supports multiple romanizations of kana such as 'shi'/'si'-「シ」、'dji'/'di'-「ヂ」、etc. Only one conversion per kana is supported. See https://github.com/dragonwithafez/Romaji2Hiragana/wiki/Conversion-table for current kana conversion table.
 
 ### Changelog
 
