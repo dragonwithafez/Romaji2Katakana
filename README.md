@@ -1,4 +1,4 @@
-## Romaji2Katakana plugin for MuseScore3
+## Romaji2Katakana plugin for MuseScore 3
 Romaji2Katakana is a plugin for MuseScore 3 which converts rōmaji lyrics like 'ra' and 'to' to 「ラ」 and 「ト」.
 
 Makes kana lyric entry easier to work around MS3's issues with kana entry using a JP keyboard or EN keyboard with IME.
