@@ -30,7 +30,7 @@ MuseScore {
                   za: 'ザ',
                   ji: 'ジ',
                   zu: 'ズ',
-                  ze: 'ぜ',
+                  ze: 'ゼ',
                   zo: 'ゾ',
                   ta: 'タ',
                   chi: 'チ',
