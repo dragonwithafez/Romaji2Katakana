@@ -31,7 +31,7 @@ As of version 1.2.1, the plugin no longer supports multiple romanizations of kan
 
 ### Changelog
 
-#### Changes in version 2.0.0 (pending release)
+#### Changes in version 2.0.0
 
 - Implement https://github.com/dragonwithafez/Romaji2Katakana/issues/2 (Allow extended kana such as 'fi'-「フィ」)
 - Implement https://github.com/dragonwithafez/Romaji2Hiragana/issues/6 (Plugin no longer affects entire score)
@@ -48,4 +48,4 @@ As of version 1.2.1, the plugin no longer supports multiple romanizations of kan
 - Code converted from https://github.com/dragonwithafez/Romaji2Hiragana version 1.2.0 for use with katakana
 
 ### Before and after using plugin
-WIP, see Romaji2Hiragana for current examples
+![image](before_after.png)
