@@ -31,6 +31,9 @@ As of version 1.2.1, the plugin no longer supports multiple romanizations of kan
 
 ### Changelog
 
+#### Changes in version 2.0.1
+- Fix an issue with conversion of lyrics in voices other than 1
+
 #### Changes in version 2.0.0
 
 - Implement https://github.com/dragonwithafez/Romaji2Katakana/issues/2 (Allow extended kana such as 'fi'-「フィ」)
