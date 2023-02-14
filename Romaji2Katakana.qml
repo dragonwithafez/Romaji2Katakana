@@ -413,3 +413,4 @@ MuseScore {
             } // done iterating over every track
             Qt.quit();
       }
+}
